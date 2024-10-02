@@ -91,12 +91,12 @@
 - Submit work by running `6991 give-crate` by Week 7 Wednesday 17:00:00.
 # COMP6991 RSLogo 24T3
 
-# CS Tutor | 计算机编程辅导 | Code Help | Programming Help
+# CS Tutor | antotech | Code Help | Programming Help
 
-# WeChat: cstutorcs
+# WeChat: Stromtech
 
-# Email: tutorcs@163.com
+# Email: antotech874@gmail.com
 
-# QQ: 749389476
+# WhatsApp: +254-712-495-486
 
-# 非中介, 直接联系程序员本人
+
